@@ -8,3 +8,4 @@ iterable = ["dog", "at", "cat", " ", 4, 5, 6]
 for i, n in enumerate(iterable):
     print (i)
     print (n)
+    print("i just printed the index, then the object")
